@@ -6,7 +6,7 @@ Small application to convert `.png` images to the GameBoy format.
 
 This spritesheet will be given to the application:
 
-<img src="resources/test.png" style="image-rendering: pixelated" width="250"/>
+<img src="resources/test.png" style="image-rendering: pixelated" width="100"/>
 
 ```bash
 >png_to_gb.exe "test.png"
@@ -48,7 +48,7 @@ You can also cut them into 8x16 sprites with the `-m` option:
 
 This application forces you to use the 4 shades of green for your images:
 
-<img src="resources/green.png" style="image-rendering: pixelated" width="300"/>
+<img src="resources/green.png" style="image-rendering: pixelated"/>
 
 - White       = #9bbc0f
 - LightGray   = #8bac0f
