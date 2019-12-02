@@ -48,7 +48,7 @@ You can also cut them into 8x16 sprites with the `-m` option:
 
 This application forces you to use the 4 shades of green for your images:
 
-<img src="resources/green.png" style="image-rendering: pixelated"/>
+![green][2]
 
 - White       = #9bbc0f
 - LightGray   = #8bac0f
@@ -60,3 +60,4 @@ This application forces you to use the 4 shades of green for your images:
 This software is licensed under the MIT License. See [LICENSE][1] for more information.
 
 [1]:LICENSE
+[2]:resources/green.png
