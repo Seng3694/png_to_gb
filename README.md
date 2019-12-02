@@ -4,9 +4,9 @@ Small application to convert `.png` images to the GameBoy format.
 
 ## Preview ##
 
-This spritesheet will be given to the application:
+This spritesheet will be given to the application (32x32 containing 16 sprites each 8x8):
 
-<img src="resources/test.png" style="image-rendering: pixelated" width="100"/>
+![spritesheet][3]
 
 ```bash
 >png_to_gb.exe "test.png"
@@ -61,3 +61,4 @@ This software is licensed under the MIT License. See [LICENSE][1] for more infor
 
 [1]:LICENSE
 [2]:resources/green.png
+[3]:resources/test.png
